@@ -1,4 +1,4 @@
-class hc:
+class hc
 	{
 		public static void main(String args[])
 			{
